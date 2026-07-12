@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1"
+  }
+}
